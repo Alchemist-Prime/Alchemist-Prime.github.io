@@ -1,1 +1,1 @@
-# Alchemist-Prime.gitub.io
+# Alchemist-Prime.github.io
